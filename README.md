@@ -1,14 +1,14 @@
-# Flutter to-do app
+# Flutter To-Do App
 
 Based off of https://daily-dev-tips.com/posts/build-a-todo-list-app-with-flutter/, the code of which is in https://github.com/rebelchris/flutter/tree/todolist
 
 ## How to Run
 
-[] Make sure you have Flutter installed properly. See https://docs.flutter.dev/get-started/install for how to install the Flutter SDK.
+* Make sure you have Flutter installed properly. See https://docs.flutter.dev/get-started/install for how to install the Flutter SDK.
 
-[] Clone this repository to your machine or download a zip file of the code. 
+* Clone this repository to your machine or download a zip file of the code. 
 
-[] Open your terminal and change directories into flutter-todolist (the main directory for this project). In your terminal, run "flutter run".
+* Open your terminal and change directories into flutter-todolist (the main directory for this project). In your terminal, run "flutter run".
 
 ## Reflection
 
