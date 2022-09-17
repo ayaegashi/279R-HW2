@@ -8,7 +8,7 @@ Based off of https://daily-dev-tips.com/posts/build-a-todo-list-app-with-flutter
 
 * Clone this repository to your machine or download a zip file of the code. 
 
-* Open your terminal and change directories into flutter-todolist (the main directory for this project). In your terminal, run "flutter run".
+* Open your terminal and change directories into 279R-HW2-main (the main directory for this project). In your terminal, run "flutter run".
 
 ## Reflection
 
